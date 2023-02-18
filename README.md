@@ -1,1 +1,1 @@
-# inceptionai.github.io
+# inceptionsai.github.io
