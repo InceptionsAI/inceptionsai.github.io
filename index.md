@@ -6,7 +6,6 @@ description: Sentient Artificial Intelligence aligned with HUMAN
 image: null
 author: null
 show_tile: false
-nav-menu: false
 ---
 
 Welcome and thank you for your interests in Inceptions AI. 
