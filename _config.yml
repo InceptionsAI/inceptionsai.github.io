@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Inceptions AI                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -37,27 +37,27 @@ features                                  :
 
   - title                                 : Any Time
     description                           : Explore captivating stories set in various historical periods, from ancient Rome to 3000 AD.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : calendar
     
   - title                                 : Any Location
     description                           : Travel through real-world settings to fantastical realms and alternate realities, anywhere in the cosmos.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : map
 
   - title                                 : Any Character
     description                           : Engage with characters from various ethnicities, and social backgrounds, celebrities or scientist.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : female
 
   - title                                 : Any Genre
     description                           : Choose from stories such as science fiction, epic fantasy, gripping mystery, heartfelt romance, and more.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : magic
   
   - title                                 : Any Form
     description                           : Interact and immerse yourself into the digital game with text, image, voice and video, etc.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : film
 
   - title                                 : Any Ending
     description                           : The dreamland of fun is at your fingertips, you get to decide how the story should go or never ends.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : heart
 
 # Theme Settings
 topbar_color                              : "#000000"
@@ -114,6 +114,10 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - tmp/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
 
 collections:
   pages:
