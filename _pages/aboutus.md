@@ -11,5 +11,4 @@ We are a group of Generative AI veterans working on the latest generative techno
 
 We are in stealth mode now. Send us a [message](emailto:hello@inceptions.ai) if you need more information.
 
-Inceptions AI INC Location: 220 EMERALD VISTA WAY 241, LAS VEGAS, NV 89144
 <br>
