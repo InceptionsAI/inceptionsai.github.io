@@ -2,6 +2,7 @@
 layout: page
 title: About us
 include_in_header: true
+order: 4
 ---
 
 # About us

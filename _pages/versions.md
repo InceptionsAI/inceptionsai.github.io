@@ -2,6 +2,7 @@
 layout: page
 title: Versions
 include_in_header: true
+order: 0
 ---
 
 ### `Initial Release`

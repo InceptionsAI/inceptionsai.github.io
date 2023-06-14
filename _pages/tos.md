@@ -2,6 +2,7 @@
 layout: page
 title: Terms of Service
 include_in_header: true
+order: 3
 ---
 Terms of Service
 ================

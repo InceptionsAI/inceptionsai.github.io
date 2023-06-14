@@ -2,6 +2,7 @@
 layout: page
 title: Cookie Policy
 include_in_header: true
+order: 1
 ---
 Cookie Policy
 =============
