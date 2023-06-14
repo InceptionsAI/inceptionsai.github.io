@@ -1,3 +1,8 @@
+---
+layout: page
+title: Cookie Policy
+include_in_header: true
+---
 Cookie Policy
 =============
 
