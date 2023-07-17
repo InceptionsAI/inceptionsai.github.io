@@ -12,7 +12,7 @@ Last updated: June 14, 2023
 Welcome to inPlay!
 ---------------------------------------------------------------------
 
-We’re so happy to have you here. These Terms of Service (“Terms”) govern your use of inPlay and the software, content, and services (collectively, “Services”) offered through: our website www.inceptions.ai and its subdomains (the “Website”), our mobile apps inPlay for Android and inPlay for iOS (the “Apps”).
+We’re so happy to have you here. These Terms of Service (“Terms”) govern your use of inPlay and the software, content, and services (collectively, “Services”) offered through: our website www.inceptions.ai/www.inp.ai and their subdomains (the “Website”), our mobile apps inPlay for Android and inPlay for iOS (the “Apps”).
 
 **Please read these terms carefully before you start using the Services.**
 

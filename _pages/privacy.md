@@ -12,7 +12,7 @@ Last updated: June 14, 2023
 Welcome to inPlay!
 -----------------------------------------------------------------------
 
-Inceptions AI Inc (“inPlay”, “we”, “us”, and/or “our”) operates the inPlay mobile applications (the “Apps”), the informational website www.inceptions.ai and its subdomains (the “Website”), and other related services (collectively, the “Services”).
+Inceptions AI Inc (“inPlay”, “we”, “us”, and/or “our”) operates the inPlay mobile applications (the “Apps”), the informational website www.inceptions.ai/www.inp.ai and their subdomains (the “Website”), and other related services (collectively, the “Services”).
 
 We are committed to protecting your privacy. This Privacy Policy describes how we collect, store, use, and share information through our Services.
 
